@@ -1,0 +1,7 @@
+{
+  "name": "CyberScan Receipt AI",
+  "description": "A cyberpunk-styled image analyzer that converts photos into digital receipt manifests using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
